@@ -10,5 +10,5 @@ This is a repo of notes taken for the lighthouse labs bootcamp program JAN 10th 
  - all notes here are written by [Joshua Loduca](https://github.com/JoshuaOLoduca)
 
 ## Table of Contents
-* Week 1
-  * Day 1
+* [Week 1](/Week_1)
+  * [Day 1](/Week_1/Day_1)
