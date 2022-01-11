@@ -1,0 +1,100 @@
+# Introduction to curriculum
+Overview of what the weeks look like and approach to lectures
+
+## Week 1
+###### FOCAL: Functions objexts conditionals arrays and loops
+
+- FF: Prog test, recursion
+
+## Week 2
+###### Async control flow (callbacks and promises) Netwrooking HTTP API NPM Packages
+
+- FF: Prog tesst 2 and OOP
+
+## Week 3
+###### First web app with HTTP Servers, express.js, cookies, basic html and forms
+
+- ff prog test and data structures: trees
+
+- TinyApp - url shortner
+
+- Tech interview
+
+## Week 4
+- Front end: css Browsers jquery ajax css html
+
+- ff algo complexioty and test
+
+- Tweeter - Twitter Clone
+
+## Week 5
+###### Databases
+
+- FF SQL test and midterm kickoff
+
+
+## Week 6
+###### Define real world situations
+- Proj managemnet
+practice fundamentals
+define teams, stack, and reqs
+
+- FF: Demo to peers AND CAREER / RESUME Prep
+
+- More details INC on week 5
+
+## Week 7-10
+###### Mordern web stacks
+- single page
+realtime apps wiuth web sockets
+automayed testing
+class based/oop with ruby
+ruby
+maintaining code
+
+- FF: Research reflectr and write
+
+## Week 7-8
+- Interview Scheduler (React)
+
+## Week 9
+- Tech interview
+
+## Week 9-10
+- Jungle - (Rails; not evaluated) (Is an app?)
+
+
+# Approach to lectures
+- Lectures are about new things
+  - So focus on it 100%
+
+
+# Tools
+- VSCode
+- Git (Version control)
+  - Repos
+  - Save milestones
+  - Keeps a history of code
+  - Backups code to github
+  - Used to work with teams
+  - cmds
+    - ```git log```
+      - history of commits
+    - ```git add .```
+      - adds all changed files to staging area
+    - ```git remote```
+      - ```git remote add <SSH:URL.git>```
+        - adds push/fetch url to local repo
+      - ```git remote rm origin```
+        - removes push/fetch URL from local repo
+      - ```git remote -v```
+        - Shows remote URLS for fetch/push
+    - ```git branch```
+      - gets list of all branches of repo
+      - ```git branch -M main```
+        - renames branch to main
+    - ```git push```
+      - ```git push -u origin main```
+        - ```-u``` flag sets default branch for use with ```git push```
+    - ```git clone <URL.git>```
+      - copies repo files to current folder 
