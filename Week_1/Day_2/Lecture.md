@@ -98,3 +98,35 @@ maintaining code
         - ```-u``` flag sets default branch for use with ```git push```
     - ```git clone <URL.git>```
       - copies repo files to current folder 
+
+# Demo Code Section
+###### Sum all command arguments into a number: Sum.js
+
+### Methodology
+- Isolate main programs purpose
+  - Sum all number inputs and output it
+- Identify Edge cases
+  - Must be num
+  - must take atleast 2 args
+- Functions should have a single responsibility
+  - function sum should only sumits inputs and do no input validation
+
+### Implementation
+1. build main purpose
+2. Bugfix (if any bugs)
+3. Then modify to support edge cases
+4. Bugfix (if any bugs)
+5. now we Refactor
+6. Bugfix (if any bugs)
+
+### new things learned for JS
+- ```Array.slice```
+  - can take negative numbers to go from back to front
+  - IE: ```Array.slice(-1)``` gets the last value of the array
+- How to stop a script
+  - ```return;```
+    - Reserved for functions (Usually)
+  - ```process.exit()```
+    - better to use for functionless scripts
+    - Or to completely exit an application from within a function
+      - like incase of errors
