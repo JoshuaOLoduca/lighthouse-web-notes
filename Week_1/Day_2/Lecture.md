@@ -83,7 +83,7 @@ maintaining code
     - ```git add .```
       - adds all changed files to staging area
     - ```git remote```
-      - ```git remote add <SSH:URL.git>```
+      - ```git remote add origin <SSH:URL.git>```
         - adds push/fetch url to local repo
       - ```git remote rm origin```
         - removes push/fetch URL from local repo
