@@ -5,6 +5,11 @@
 - keys
 - functions in objects
 
+## Sources
+[Lecture Video](https://vimeo.com/665317404/7910e8c720)
+
+[Teacher Notes](https://github.com/FrancisBourgouin/lectures-2022-east-jan10)
+
 ## Tips
 
 Try to not modify values. but to make new ones holding the updated version of the "edited" one

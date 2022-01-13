@@ -1,6 +1,13 @@
 # Introduction to curriculum
 Overview of what the weeks look like and approach to lectures
 
+## Sources
+[Lecture Video](https://vimeo.com/664898047/6e11d946c0)
+
+[Teacher Notes](https://github.com/DominicTremblay/w1d2-lecture/tree/demo-east-jan10-2022)
+
+[Teacher Demo](https://github.com/DominicTremblay/w1demo_jan10)
+
 ## Week 1
 ###### FOCAL: Functions objexts conditionals arrays and loops
 
