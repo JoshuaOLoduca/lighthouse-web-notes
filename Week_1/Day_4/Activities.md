@@ -28,5 +28,24 @@ const actionWhenFound = function(name,index) {
 findWaldo(["Alice", "Bob", "Waldo", "Winston"], actionWhenFound);
 ```
 
+## Stretch
+
+### Sorting
+- Default array sort in javascript is lexigraphical.
+  - also known as alphabetical.
+  - this also applies to numbers.
+    - yes, numbers are sorted alphabetically
+      - yes, its dumb.
+  - [here is documentation for sorting numerically](http://www.javascriptkit.com/javatutors/arraysort.shtml)
+
 ## Resources
-[Understanding Javascript Promises](https://attachments.convertkitcdnn2.com/343082/c6984633-5363-4ca2-b662-47b36693c5b2/understanding-javascript-promises.pdf)
+ - [Understanding Javascript Promises](https://attachments.convertkitcdnn2.com/343082/c6984633-5363-4ca2-b662-47b36693c5b2/understanding-javascript-promises.pdf)
+
+ - [Video on Arrow functions - Fun Fun Function](https://youtu.be/6sQDTgOqh-I)
+
+ - [Video on Higher-order functions - Fun Fun Function](https://youtu.be/BMUiFMZr7vk)
+
+  - [Video on Array.Map - Fun Fun Function](https://youtu.be/bCqtb-Z5YGQ)
+
+ - Vim Cheat sheet
+  ![Vim Cheat sheet](http://www.viemu.com/vi-vim-cheat-sheet.gif)
