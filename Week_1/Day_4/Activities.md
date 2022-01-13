@@ -47,5 +47,5 @@ findWaldo(["Alice", "Bob", "Waldo", "Winston"], actionWhenFound);
 
   - [Video on Array.Map - Fun Fun Function](https://youtu.be/bCqtb-Z5YGQ)
 
- - Vim Cheat sheet
+ - [Vim Cheat sheet](http://www.viemu.com/vi-vim-cheat-sheet.gif)
   ![Vim Cheat sheet](http://www.viemu.com/vi-vim-cheat-sheet.gif)
