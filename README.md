@@ -19,3 +19,4 @@ This is a repo of notes taken for the lighthouse labs bootcamp program JAN 10th 
 * [Week 2](/Week_2)
   * [Day 1](/Week_2/Day_1)
   * [Day 2](/Week_2/Day_2)
+  * [Day 3](/Week_2/Day_3)
