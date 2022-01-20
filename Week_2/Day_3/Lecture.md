@@ -1,3 +1,8 @@
+# Resources
+- [Lecture](https://vimeo.com/667988807/693c788aec)
+- [Code](https://github.com/idbentley/lighthouse-lectures/tree/main/flex-w5d1-full-w2d3-networking)
+- [Slide](https://github.com/idbentley/lighthouse-lectures/blob/main/flex-w5d1-full-w2d3-networking/flex-w5d1-full-w2d3-networking.pdf)
+
 # Introduction to networking
 Talking about the layers of computer communication and how to use it.
 
