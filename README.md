@@ -23,3 +23,5 @@ This is a repo of notes taken for the lighthouse labs bootcamp program JAN 10th 
   * [Day 5](/Week_2/Day_5)
 * [Week 3](/Week_3)
   * [Day 1](/Week_3/Day_1)
+  * [Day 3](/Week_3/Day_3)
+  * [Day 4](/Week_3/Day_4)
